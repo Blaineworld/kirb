@@ -1,0 +1,23 @@
+{
+  "name": "kirb",
+  "version": "0.0.0",
+  "description": "Kirby from the Kirby series of video games, except that he is a virtual assistant.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Blaineworld/kirb.git"
+  },
+  "keywords": [
+    "Kirby",
+    "Assistant"
+  ],
+  "author": "Blaineworld",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Blaineworld/kirb/issues"
+  },
+  "homepage": "https://github.com/Blaineworld/kirb#readme"
+}
